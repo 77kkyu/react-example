@@ -1,3 +1,22 @@
+
+# Description
+- auth : 77kkyu
+- development environment : react.js
+- technology : axios, craco
+- css : tailwind
+---
+
+# File Structure
+
+https://ko.reactjs.org/docs/faq-structure.html
+
+---
+
+# Image
+
+![](https://github.com/77kkyu/react-example/blob/main/Assets/board001.png?raw=true)
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
